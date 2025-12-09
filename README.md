@@ -70,4 +70,3 @@ This repository contains Python coding exercises and implementations for learnin
 
 ---
 
-## Repository Structure
