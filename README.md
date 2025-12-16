@@ -53,7 +53,7 @@ This repository contains Python coding exercises and implementations for learnin
 
 ### Day 5 – Distributions
 - Normal, Binomial, Poisson
-- Z-scores  
+- Z-score
 
 **Coding Tasks:**
 - `normal_pdf()`
