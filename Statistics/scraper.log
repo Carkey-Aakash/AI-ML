@@ -1,0 +1,637 @@
+2025-12-13 13:33:37,869 - INFO - Starting page fetch
+2025-12-13 13:33:39,001 - INFO - Page fetched successfully
+2025-12-13 13:33:39,002 - INFO - Items parsed successfully
+2025-12-13 13:35:48,990 - INFO - Starting page fetch
+2025-12-13 13:35:49,182 - ERROR - Request failed: 403 Client Error: Forbidden for url: https://example2.com/
+2025-12-13 13:36:21,217 - INFO - Starting page fetch
+2025-12-13 13:36:22,336 - INFO - Page fetched successfully
+2025-12-13 13:36:22,337 - INFO - Items parsed successfully
+2025-12-13 13:44:28,887 - INFO - Starting page fetch
+2025-12-13 13:44:30,315 - INFO - Page fetched successfully
+2025-12-13 13:44:30,315 - INFO - Items parsed successfully
+2025-12-13 13:44:59,767 - INFO - Starting page fetch
+2025-12-13 13:44:59,899 - ERROR - Request failed: 403 Client Error: Forbidden for url: https://example2.com/
+2025-12-13 13:47:24,001 - INFO - Starting page fetch
+2025-12-13 13:47:29,207 - INFO - Page fetched successfully
+2025-12-13 13:47:29,207 - INFO - Items parsed successfully
+2025-12-13 14:06:44,276 - INFO - Attempting 1 attempts.
+2025-12-13 14:06:54,301 - INFO - Attempting 1 attempts.
+2025-12-13 14:06:55,529 - INFO - Page Fetched Successfully
+2025-12-13 14:07:45,209 - INFO - Attempting 1 attempts.
+2025-12-13 14:07:46,338 - INFO - Page Fetched Successfully
+2025-12-13 14:08:23,955 - INFO - Attempting 1 attempts.
+2025-12-13 14:08:24,797 - ERROR - Request Failed on 1 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:08:24,797 - INFO - Retrying after 2 seconds...
+2025-12-13 14:08:26,798 - INFO - Attempting 2 attempts.
+2025-12-13 14:08:27,598 - ERROR - Request Failed on 2 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:08:27,598 - INFO - Retrying after 2 seconds...
+2025-12-13 14:08:29,599 - INFO - Attempting 3 attempts.
+2025-12-13 14:08:30,440 - ERROR - Request Failed on 3 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:08:30,440 - INFO - Retrying after 2 seconds...
+2025-12-13 14:10:58,527 - INFO - Attempting 1 attempts.
+2025-12-13 14:10:59,334 - ERROR - Request Failed on 1 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:10:59,334 - INFO - Retrying after 2 seconds...
+2025-12-13 14:11:01,335 - INFO - Attempting 2 attempts.
+2025-12-13 14:11:02,194 - ERROR - Request Failed on 2 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:11:02,194 - INFO - Retrying after 2 seconds...
+2025-12-13 14:11:04,196 - INFO - Attempting 3 attempts.
+2025-12-13 14:11:05,014 - ERROR - Request Failed on 3 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:11:05,014 - INFO - Retrying after 2 seconds...
+2025-12-13 14:13:32,057 - INFO - Attempting 1 attempts.
+2025-12-13 14:13:32,882 - ERROR - Request Failed on 1 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:13:32,882 - INFO - Retrying after 2 seconds...
+2025-12-13 14:13:34,883 - INFO - Attempting 2 attempts.
+2025-12-13 14:13:35,699 - ERROR - Request Failed on 2 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:13:35,699 - INFO - Retrying after 2 seconds...
+2025-12-13 14:13:37,700 - INFO - Attempting 3 attempts.
+2025-12-13 14:13:38,547 - ERROR - Request Failed on 3 attempt: 406 Client Error: Not Acceptable for url: https://example1.com/ 
+2025-12-13 14:13:38,548 - INFO - Max attempt Reached: Request Failed
+2025-12-13 14:38:21,406 - INFO - Scraping page 1: http://books.toscrape.com/catalogue/page-1.html
+2025-12-13 14:38:22,316 - INFO - Page 1 fetched successfully (200)
+2025-12-13 14:38:22,378 - INFO - Scraping page 2: http://books.toscrape.com/catalogue/page-2.html
+2025-12-13 14:38:23,199 - INFO - Page 2 fetched successfully (200)
+2025-12-13 14:38:23,241 - INFO - Scraping page 3: http://books.toscrape.com/catalogue/page-3.html
+2025-12-13 14:38:24,065 - INFO - Page 3 fetched successfully (200)
+2025-12-13 14:38:24,121 - INFO - Scraping page 4: http://books.toscrape.com/catalogue/page-4.html
+2025-12-13 14:38:24,979 - INFO - Page 4 fetched successfully (200)
+2025-12-13 14:38:25,036 - INFO - Scraping page 5: http://books.toscrape.com/catalogue/page-5.html
+2025-12-13 14:38:25,882 - INFO - Page 5 fetched successfully (200)
+2025-12-13 14:38:25,936 - INFO - Scraping page 6: http://books.toscrape.com/catalogue/page-6.html
+2025-12-13 14:38:26,791 - INFO - Page 6 fetched successfully (200)
+2025-12-13 14:38:26,841 - INFO - Scraping page 7: http://books.toscrape.com/catalogue/page-7.html
+2025-12-13 14:38:27,701 - INFO - Page 7 fetched successfully (200)
+2025-12-13 14:38:27,753 - INFO - Scraping page 8: http://books.toscrape.com/catalogue/page-8.html
+2025-12-13 14:38:28,609 - INFO - Page 8 fetched successfully (200)
+2025-12-13 14:38:28,665 - INFO - Scraping page 9: http://books.toscrape.com/catalogue/page-9.html
+2025-12-13 14:38:29,494 - INFO - Page 9 fetched successfully (200)
+2025-12-13 14:38:29,550 - INFO - Scraping page 10: http://books.toscrape.com/catalogue/page-10.html
+2025-12-13 14:38:30,409 - INFO - Page 10 fetched successfully (200)
+2025-12-13 14:38:30,466 - INFO - Scraping page 11: http://books.toscrape.com/catalogue/page-11.html
+2025-12-13 14:38:31,306 - INFO - Page 11 fetched successfully (200)
+2025-12-13 14:38:31,337 - INFO - Scraping page 12: http://books.toscrape.com/catalogue/page-12.html
+2025-12-13 14:38:32,153 - INFO - Page 12 fetched successfully (200)
+2025-12-13 14:38:32,190 - INFO - Scraping page 13: http://books.toscrape.com/catalogue/page-13.html
+2025-12-13 14:38:33,054 - INFO - Page 13 fetched successfully (200)
+2025-12-13 14:38:33,106 - INFO - Scraping page 14: http://books.toscrape.com/catalogue/page-14.html
+2025-12-13 14:38:33,967 - INFO - Page 14 fetched successfully (200)
+2025-12-13 14:38:33,996 - INFO - Scraping page 15: http://books.toscrape.com/catalogue/page-15.html
+2025-12-13 14:38:34,821 - INFO - Page 15 fetched successfully (200)
+2025-12-13 14:38:34,879 - INFO - Scraping page 16: http://books.toscrape.com/catalogue/page-16.html
+2025-12-13 14:38:35,702 - INFO - Page 16 fetched successfully (200)
+2025-12-13 14:38:35,736 - INFO - Scraping page 17: http://books.toscrape.com/catalogue/page-17.html
+2025-12-13 14:38:36,588 - INFO - Page 17 fetched successfully (200)
+2025-12-13 14:38:36,639 - INFO - Scraping page 18: http://books.toscrape.com/catalogue/page-18.html
+2025-12-13 14:38:37,494 - INFO - Page 18 fetched successfully (200)
+2025-12-13 14:38:37,528 - INFO - Scraping page 19: http://books.toscrape.com/catalogue/page-19.html
+2025-12-13 14:38:38,359 - INFO - Page 19 fetched successfully (200)
+2025-12-13 14:38:38,412 - INFO - Scraping page 20: http://books.toscrape.com/catalogue/page-20.html
+2025-12-13 14:38:39,233 - INFO - Page 20 fetched successfully (200)
+2025-12-13 14:38:39,288 - INFO - Scraping page 21: http://books.toscrape.com/catalogue/page-21.html
+2025-12-13 14:38:40,129 - INFO - Page 21 fetched successfully (200)
+2025-12-13 14:38:40,618 - INFO - Scraping page 22: http://books.toscrape.com/catalogue/page-22.html
+2025-12-13 14:38:41,457 - INFO - Page 22 fetched successfully (200)
+2025-12-13 14:38:41,486 - INFO - Scraping page 23: http://books.toscrape.com/catalogue/page-23.html
+2025-12-13 14:38:42,316 - INFO - Page 23 fetched successfully (200)
+2025-12-13 14:38:42,368 - INFO - Scraping page 24: http://books.toscrape.com/catalogue/page-24.html
+2025-12-13 14:38:43,168 - INFO - Page 24 fetched successfully (200)
+2025-12-13 14:38:43,223 - INFO - Scraping page 25: http://books.toscrape.com/catalogue/page-25.html
+2025-12-13 14:38:44,021 - INFO - Page 25 fetched successfully (200)
+2025-12-13 14:38:44,073 - INFO - Scraping page 26: http://books.toscrape.com/catalogue/page-26.html
+2025-12-13 14:38:44,936 - INFO - Page 26 fetched successfully (200)
+2025-12-13 14:38:44,992 - INFO - Scraping page 27: http://books.toscrape.com/catalogue/page-27.html
+2025-12-13 14:38:45,821 - INFO - Page 27 fetched successfully (200)
+2025-12-13 14:38:45,884 - INFO - Scraping page 28: http://books.toscrape.com/catalogue/page-28.html
+2025-12-13 14:38:46,752 - INFO - Page 28 fetched successfully (200)
+2025-12-13 14:38:46,784 - INFO - Scraping page 29: http://books.toscrape.com/catalogue/page-29.html
+2025-12-13 14:38:47,642 - INFO - Page 29 fetched successfully (200)
+2025-12-13 14:38:47,695 - INFO - Scraping page 30: http://books.toscrape.com/catalogue/page-30.html
+2025-12-13 14:38:48,526 - INFO - Page 30 fetched successfully (200)
+2025-12-13 14:38:48,580 - INFO - Scraping page 31: http://books.toscrape.com/catalogue/page-31.html
+2025-12-13 14:38:49,398 - INFO - Page 31 fetched successfully (200)
+2025-12-13 14:38:49,451 - INFO - Scraping page 32: http://books.toscrape.com/catalogue/page-32.html
+2025-12-13 14:38:50,253 - INFO - Page 32 fetched successfully (200)
+2025-12-13 14:38:50,314 - INFO - Scraping page 33: http://books.toscrape.com/catalogue/page-33.html
+2025-12-13 14:38:51,158 - INFO - Page 33 fetched successfully (200)
+2025-12-13 14:38:51,185 - INFO - Scraping page 34: http://books.toscrape.com/catalogue/page-34.html
+2025-12-13 14:38:52,000 - INFO - Page 34 fetched successfully (200)
+2025-12-13 14:38:52,027 - INFO - Scraping page 35: http://books.toscrape.com/catalogue/page-35.html
+2025-12-13 14:38:52,853 - INFO - Page 35 fetched successfully (200)
+2025-12-13 14:38:52,876 - INFO - Scraping page 36: http://books.toscrape.com/catalogue/page-36.html
+2025-12-13 14:38:53,742 - INFO - Page 36 fetched successfully (200)
+2025-12-13 14:38:53,783 - INFO - Scraping page 37: http://books.toscrape.com/catalogue/page-37.html
+2025-12-13 14:38:54,653 - INFO - Page 37 fetched successfully (200)
+2025-12-13 14:38:54,703 - INFO - Scraping page 38: http://books.toscrape.com/catalogue/page-38.html
+2025-12-13 14:38:55,557 - INFO - Page 38 fetched successfully (200)
+2025-12-13 14:38:55,646 - INFO - Scraping page 39: http://books.toscrape.com/catalogue/page-39.html
+2025-12-13 14:38:56,485 - INFO - Page 39 fetched successfully (200)
+2025-12-13 14:38:56,521 - INFO - Scraping page 40: http://books.toscrape.com/catalogue/page-40.html
+2025-12-13 14:38:57,367 - INFO - Page 40 fetched successfully (200)
+2025-12-13 14:38:57,416 - INFO - Scraping page 41: http://books.toscrape.com/catalogue/page-41.html
+2025-12-13 14:38:58,270 - INFO - Page 41 fetched successfully (200)
+2025-12-13 14:38:58,336 - INFO - Scraping page 42: http://books.toscrape.com/catalogue/page-42.html
+2025-12-13 14:38:59,133 - INFO - Page 42 fetched successfully (200)
+2025-12-13 14:38:59,176 - INFO - Scraping page 43: http://books.toscrape.com/catalogue/page-43.html
+2025-12-13 14:39:00,018 - INFO - Page 43 fetched successfully (200)
+2025-12-13 14:39:00,054 - INFO - Scraping page 44: http://books.toscrape.com/catalogue/page-44.html
+2025-12-13 14:39:00,860 - INFO - Page 44 fetched successfully (200)
+2025-12-13 14:39:00,925 - INFO - Scraping page 45: http://books.toscrape.com/catalogue/page-45.html
+2025-12-13 14:39:01,738 - INFO - Page 45 fetched successfully (200)
+2025-12-13 14:39:01,787 - INFO - Scraping page 46: http://books.toscrape.com/catalogue/page-46.html
+2025-12-13 14:39:02,621 - INFO - Page 46 fetched successfully (200)
+2025-12-13 14:39:02,666 - INFO - Scraping page 47: http://books.toscrape.com/catalogue/page-47.html
+2025-12-13 14:39:03,480 - INFO - Page 47 fetched successfully (200)
+2025-12-13 14:39:03,518 - INFO - Scraping page 48: http://books.toscrape.com/catalogue/page-48.html
+2025-12-13 14:39:04,340 - INFO - Page 48 fetched successfully (200)
+2025-12-13 14:39:04,395 - INFO - Scraping page 49: http://books.toscrape.com/catalogue/page-49.html
+2025-12-13 14:39:05,229 - INFO - Page 49 fetched successfully (200)
+2025-12-13 14:39:05,298 - INFO - Scraping page 50: http://books.toscrape.com/catalogue/page-50.html
+2025-12-13 14:39:06,129 - INFO - Page 50 fetched successfully (200)
+2025-12-13 14:39:06,175 - INFO - No more pages to scrape. Stopping.
+2025-12-13 14:41:09,972 - INFO - Scraping page 1: http://books.toscrape.com/catalogue/page-1.html
+2025-12-13 14:41:10,835 - INFO - Page 1 fetched successfully (200)
+2025-12-13 14:41:10,883 - INFO - Scraping page 2: http://books.toscrape.com/catalogue/page-2.html
+2025-12-13 14:41:11,748 - INFO - Page 2 fetched successfully (200)
+2025-12-13 14:41:11,775 - INFO - Scraping page 3: http://books.toscrape.com/catalogue/page-3.html
+2025-12-13 14:41:12,605 - INFO - Page 3 fetched successfully (200)
+2025-12-13 14:41:12,655 - INFO - Scraping page 4: http://books.toscrape.com/catalogue/page-4.html
+2025-12-13 14:41:13,513 - INFO - Page 4 fetched successfully (200)
+2025-12-13 14:41:13,561 - INFO - Scraping page 5: http://books.toscrape.com/catalogue/page-5.html
+2025-12-13 14:41:14,423 - INFO - Page 5 fetched successfully (200)
+2025-12-13 14:41:14,463 - INFO - Scraping page 6: http://books.toscrape.com/catalogue/page-6.html
+2025-12-13 14:41:15,274 - INFO - Page 6 fetched successfully (200)
+2025-12-13 14:41:15,325 - INFO - Scraping page 7: http://books.toscrape.com/catalogue/page-7.html
+2025-12-13 14:41:16,152 - INFO - Page 7 fetched successfully (200)
+2025-12-13 14:41:16,204 - INFO - Scraping page 8: http://books.toscrape.com/catalogue/page-8.html
+2025-12-13 14:41:17,034 - INFO - Page 8 fetched successfully (200)
+2025-12-13 14:41:17,065 - INFO - Scraping page 9: http://books.toscrape.com/catalogue/page-9.html
+2025-12-13 14:41:17,930 - INFO - Page 9 fetched successfully (200)
+2025-12-13 14:41:17,980 - INFO - Scraping page 10: http://books.toscrape.com/catalogue/page-10.html
+2025-12-13 14:41:18,800 - INFO - Page 10 fetched successfully (200)
+2025-12-13 14:41:18,853 - INFO - Scraping page 11: http://books.toscrape.com/catalogue/page-11.html
+2025-12-13 14:41:19,695 - INFO - Page 11 fetched successfully (200)
+2025-12-13 14:41:19,751 - INFO - Scraping page 12: http://books.toscrape.com/catalogue/page-12.html
+2025-12-13 14:41:20,575 - INFO - Page 12 fetched successfully (200)
+2025-12-13 14:41:20,623 - INFO - Scraping page 13: http://books.toscrape.com/catalogue/page-13.html
+2025-12-13 14:41:21,427 - INFO - Page 13 fetched successfully (200)
+2025-12-13 14:41:21,451 - INFO - Scraping page 14: http://books.toscrape.com/catalogue/page-14.html
+2025-12-13 14:41:22,279 - INFO - Page 14 fetched successfully (200)
+2025-12-13 14:41:22,307 - INFO - Scraping page 15: http://books.toscrape.com/catalogue/page-15.html
+2025-12-13 14:41:23,122 - INFO - Page 15 fetched successfully (200)
+2025-12-13 14:41:23,171 - INFO - Scraping page 16: http://books.toscrape.com/catalogue/page-16.html
+2025-12-13 14:41:24,032 - INFO - Page 16 fetched successfully (200)
+2025-12-13 14:41:24,086 - INFO - Scraping page 17: http://books.toscrape.com/catalogue/page-17.html
+2025-12-13 14:41:24,883 - INFO - Page 17 fetched successfully (200)
+2025-12-13 14:41:24,911 - INFO - Scraping page 18: http://books.toscrape.com/catalogue/page-18.html
+2025-12-13 14:41:25,736 - INFO - Page 18 fetched successfully (200)
+2025-12-13 14:41:25,762 - INFO - Scraping page 19: http://books.toscrape.com/catalogue/page-19.html
+2025-12-13 14:41:26,592 - INFO - Page 19 fetched successfully (200)
+2025-12-13 14:41:26,637 - INFO - Scraping page 20: http://books.toscrape.com/catalogue/page-20.html
+2025-12-13 14:41:27,487 - INFO - Page 20 fetched successfully (200)
+2025-12-13 14:41:27,534 - INFO - Scraping page 21: http://books.toscrape.com/catalogue/page-21.html
+2025-12-13 14:41:28,363 - INFO - Page 21 fetched successfully (200)
+2025-12-13 14:41:28,397 - INFO - Scraping page 22: http://books.toscrape.com/catalogue/page-22.html
+2025-12-13 14:41:29,198 - INFO - Page 22 fetched successfully (200)
+2025-12-13 14:41:29,253 - INFO - Scraping page 23: http://books.toscrape.com/catalogue/page-23.html
+2025-12-13 14:41:30,097 - INFO - Page 23 fetched successfully (200)
+2025-12-13 14:41:30,144 - INFO - Scraping page 24: http://books.toscrape.com/catalogue/page-24.html
+2025-12-13 14:41:31,008 - INFO - Page 24 fetched successfully (200)
+2025-12-13 14:41:31,043 - INFO - Scraping page 25: http://books.toscrape.com/catalogue/page-25.html
+2025-12-13 14:41:31,853 - INFO - Page 25 fetched successfully (200)
+2025-12-13 14:41:31,902 - INFO - Scraping page 26: http://books.toscrape.com/catalogue/page-26.html
+2025-12-13 14:41:32,762 - INFO - Page 26 fetched successfully (200)
+2025-12-13 14:41:32,796 - INFO - Scraping page 27: http://books.toscrape.com/catalogue/page-27.html
+2025-12-13 14:41:33,605 - INFO - Page 27 fetched successfully (200)
+2025-12-13 14:41:33,643 - INFO - Scraping page 28: http://books.toscrape.com/catalogue/page-28.html
+2025-12-13 14:41:34,453 - INFO - Page 28 fetched successfully (200)
+2025-12-13 14:41:34,508 - INFO - Scraping page 29: http://books.toscrape.com/catalogue/page-29.html
+2025-12-13 14:41:35,335 - INFO - Page 29 fetched successfully (200)
+2025-12-13 14:41:35,360 - INFO - Scraping page 30: http://books.toscrape.com/catalogue/page-30.html
+2025-12-13 14:41:36,188 - INFO - Page 30 fetched successfully (200)
+2025-12-13 14:41:36,232 - INFO - Scraping page 31: http://books.toscrape.com/catalogue/page-31.html
+2025-12-13 14:41:37,053 - INFO - Page 31 fetched successfully (200)
+2025-12-13 14:41:37,081 - INFO - Scraping page 32: http://books.toscrape.com/catalogue/page-32.html
+2025-12-13 14:41:37,900 - INFO - Page 32 fetched successfully (200)
+2025-12-13 14:41:37,952 - INFO - Scraping page 33: http://books.toscrape.com/catalogue/page-33.html
+2025-12-13 14:41:38,809 - INFO - Page 33 fetched successfully (200)
+2025-12-13 14:41:38,863 - INFO - Scraping page 34: http://books.toscrape.com/catalogue/page-34.html
+2025-12-13 14:41:39,717 - INFO - Page 34 fetched successfully (200)
+2025-12-13 14:41:39,747 - INFO - Scraping page 35: http://books.toscrape.com/catalogue/page-35.html
+2025-12-13 14:41:40,590 - INFO - Page 35 fetched successfully (200)
+2025-12-13 14:41:40,640 - INFO - Scraping page 36: http://books.toscrape.com/catalogue/page-36.html
+2025-12-13 14:41:41,469 - INFO - Page 36 fetched successfully (200)
+2025-12-13 14:41:41,518 - INFO - Scraping page 37: http://books.toscrape.com/catalogue/page-37.html
+2025-12-13 14:41:42,349 - INFO - Page 37 fetched successfully (200)
+2025-12-13 14:41:42,398 - INFO - Scraping page 38: http://books.toscrape.com/catalogue/page-38.html
+2025-12-13 14:41:43,222 - INFO - Page 38 fetched successfully (200)
+2025-12-13 14:41:43,270 - INFO - Scraping page 39: http://books.toscrape.com/catalogue/page-39.html
+2025-12-13 14:41:44,095 - INFO - Page 39 fetched successfully (200)
+2025-12-13 14:41:44,122 - INFO - Scraping page 40: http://books.toscrape.com/catalogue/page-40.html
+2025-12-13 14:41:44,949 - INFO - Page 40 fetched successfully (200)
+2025-12-13 14:41:45,128 - INFO - Scraping page 41: http://books.toscrape.com/catalogue/page-41.html
+2025-12-13 14:41:45,952 - INFO - Page 41 fetched successfully (200)
+2025-12-13 14:41:45,976 - INFO - Scraping page 42: http://books.toscrape.com/catalogue/page-42.html
+2025-12-13 14:41:46,800 - INFO - Page 42 fetched successfully (200)
+2025-12-13 14:41:46,824 - INFO - Scraping page 43: http://books.toscrape.com/catalogue/page-43.html
+2025-12-13 14:41:47,641 - INFO - Page 43 fetched successfully (200)
+2025-12-13 14:41:47,692 - INFO - Scraping page 44: http://books.toscrape.com/catalogue/page-44.html
+2025-12-13 14:41:48,507 - INFO - Page 44 fetched successfully (200)
+2025-12-13 14:41:48,547 - INFO - Scraping page 45: http://books.toscrape.com/catalogue/page-45.html
+2025-12-13 14:41:49,407 - INFO - Page 45 fetched successfully (200)
+2025-12-13 14:41:49,459 - INFO - Scraping page 46: http://books.toscrape.com/catalogue/page-46.html
+2025-12-13 14:41:50,283 - INFO - Page 46 fetched successfully (200)
+2025-12-13 14:41:50,342 - INFO - Scraping page 47: http://books.toscrape.com/catalogue/page-47.html
+2025-12-13 14:41:51,205 - INFO - Page 47 fetched successfully (200)
+2025-12-13 14:41:51,231 - INFO - Scraping page 48: http://books.toscrape.com/catalogue/page-48.html
+2025-12-13 14:41:52,046 - INFO - Page 48 fetched successfully (200)
+2025-12-13 14:41:52,095 - INFO - Scraping page 49: http://books.toscrape.com/catalogue/page-49.html
+2025-12-13 14:41:52,925 - INFO - Page 49 fetched successfully (200)
+2025-12-13 14:41:52,970 - INFO - Scraping page 50: http://books.toscrape.com/catalogue/page-50.html
+2025-12-13 14:41:53,770 - INFO - Page 50 fetched successfully (200)
+2025-12-13 14:41:53,797 - INFO - No more pages to scrape. Stopping.
+2025-12-13 14:45:42,692 - INFO - Scraping page 1: http://books.toscrape.com/catalogue/page-100.html
+2025-12-13 14:45:43,471 - WARNING - Page 1 returned status code 404
+2025-12-13 14:45:43,472 - INFO - No more pages to scrape. Stopping.
+2025-12-13 15:00:39,323 - INFO - Scraping page 1: http://books.toscrape.com/catalogue/page-1.html
+2025-12-13 15:00:40,337 - INFO - Page 1 fetched successfully (200)
+2025-12-13 15:00:40,425 - INFO - Scraping page 2: http://books.toscrape.com/catalogue/page-2.html
+2025-12-13 15:00:41,381 - INFO - Page 2 fetched successfully (200)
+2025-12-13 15:00:41,480 - INFO - Scraping page 3: http://books.toscrape.com/catalogue/page-3.html
+2025-12-13 15:00:42,337 - INFO - Page 3 fetched successfully (200)
+2025-12-13 15:00:42,434 - INFO - Scraping page 4: http://books.toscrape.com/catalogue/page-4.html
+2025-12-13 15:00:43,315 - INFO - Page 4 fetched successfully (200)
+2025-12-13 15:00:43,400 - INFO - Scraping page 5: http://books.toscrape.com/catalogue/page-5.html
+2025-12-13 15:00:44,314 - INFO - Page 5 fetched successfully (200)
+2025-12-13 15:00:44,408 - INFO - Scraping page 6: http://books.toscrape.com/catalogue/page-6.html
+2025-12-13 15:00:45,291 - INFO - Page 6 fetched successfully (200)
+2025-12-13 15:00:45,392 - INFO - Scraping page 7: http://books.toscrape.com/catalogue/page-7.html
+2025-12-13 15:00:46,287 - INFO - Page 7 fetched successfully (200)
+2025-12-13 15:00:46,366 - INFO - Scraping page 8: http://books.toscrape.com/catalogue/page-8.html
+2025-12-13 15:00:47,189 - INFO - Page 8 fetched successfully (200)
+2025-12-13 15:00:47,289 - INFO - Scraping page 9: http://books.toscrape.com/catalogue/page-9.html
+2025-12-13 15:00:48,130 - INFO - Page 9 fetched successfully (200)
+2025-12-13 15:00:48,215 - INFO - Scraping page 10: http://books.toscrape.com/catalogue/page-10.html
+2025-12-13 15:00:49,138 - INFO - Page 10 fetched successfully (200)
+2025-12-13 15:00:49,215 - INFO - Scraping page 11: http://books.toscrape.com/catalogue/page-11.html
+2025-12-13 15:00:50,188 - INFO - Page 11 fetched successfully (200)
+2025-12-13 15:00:50,299 - INFO - Scraping page 12: http://books.toscrape.com/catalogue/page-12.html
+2025-12-13 15:00:51,161 - INFO - Page 12 fetched successfully (200)
+2025-12-13 15:00:51,249 - INFO - Scraping page 13: http://books.toscrape.com/catalogue/page-13.html
+2025-12-13 15:00:52,173 - INFO - Page 13 fetched successfully (200)
+2025-12-13 15:00:52,264 - INFO - Scraping page 14: http://books.toscrape.com/catalogue/page-14.html
+2025-12-13 15:00:53,152 - INFO - Page 14 fetched successfully (200)
+2025-12-13 15:00:53,254 - INFO - Scraping page 15: http://books.toscrape.com/catalogue/page-15.html
+2025-12-13 15:00:54,146 - INFO - Page 15 fetched successfully (200)
+2025-12-13 15:00:54,240 - INFO - Scraping page 16: http://books.toscrape.com/catalogue/page-16.html
+2025-12-13 15:00:55,157 - INFO - Page 16 fetched successfully (200)
+2025-12-13 15:00:55,238 - INFO - Scraping page 17: http://books.toscrape.com/catalogue/page-17.html
+2025-12-13 15:00:56,067 - INFO - Page 17 fetched successfully (200)
+2025-12-13 15:00:56,187 - INFO - Scraping page 18: http://books.toscrape.com/catalogue/page-18.html
+2025-12-13 15:00:57,111 - INFO - Page 18 fetched successfully (200)
+2025-12-13 15:00:57,307 - INFO - Scraping page 19: http://books.toscrape.com/catalogue/page-19.html
+2025-12-13 15:00:58,128 - INFO - Page 19 fetched successfully (200)
+2025-12-13 15:00:58,208 - INFO - Scraping page 20: http://books.toscrape.com/catalogue/page-20.html
+2025-12-13 15:00:59,039 - INFO - Page 20 fetched successfully (200)
+2025-12-13 15:00:59,127 - INFO - Scraping page 21: http://books.toscrape.com/catalogue/page-21.html
+2025-12-13 15:00:59,968 - INFO - Page 21 fetched successfully (200)
+2025-12-13 15:01:00,065 - INFO - Scraping page 22: http://books.toscrape.com/catalogue/page-22.html
+2025-12-13 15:01:00,880 - INFO - Page 22 fetched successfully (200)
+2025-12-13 15:01:00,967 - INFO - Scraping page 23: http://books.toscrape.com/catalogue/page-23.html
+2025-12-13 15:01:01,799 - INFO - Page 23 fetched successfully (200)
+2025-12-13 15:01:01,916 - INFO - Scraping page 24: http://books.toscrape.com/catalogue/page-24.html
+2025-12-13 15:01:02,894 - INFO - Page 24 fetched successfully (200)
+2025-12-13 15:01:02,975 - INFO - Scraping page 25: http://books.toscrape.com/catalogue/page-25.html
+2025-12-13 15:01:03,867 - INFO - Page 25 fetched successfully (200)
+2025-12-13 15:01:03,952 - INFO - Scraping page 26: http://books.toscrape.com/catalogue/page-26.html
+2025-12-13 15:01:04,930 - INFO - Page 26 fetched successfully (200)
+2025-12-13 15:01:05,011 - INFO - Scraping page 27: http://books.toscrape.com/catalogue/page-27.html
+2025-12-13 15:01:05,943 - INFO - Page 27 fetched successfully (200)
+2025-12-13 15:01:06,035 - INFO - Scraping page 28: http://books.toscrape.com/catalogue/page-28.html
+2025-12-13 15:01:06,898 - INFO - Page 28 fetched successfully (200)
+2025-12-13 15:01:06,996 - INFO - Scraping page 29: http://books.toscrape.com/catalogue/page-29.html
+2025-12-13 15:01:07,980 - INFO - Page 29 fetched successfully (200)
+2025-12-13 15:01:08,064 - INFO - Scraping page 30: http://books.toscrape.com/catalogue/page-30.html
+2025-12-13 15:01:08,992 - INFO - Page 30 fetched successfully (200)
+2025-12-13 15:01:09,088 - INFO - Scraping page 31: http://books.toscrape.com/catalogue/page-31.html
+2025-12-13 15:01:09,978 - INFO - Page 31 fetched successfully (200)
+2025-12-13 15:01:10,073 - INFO - Scraping page 32: http://books.toscrape.com/catalogue/page-32.html
+2025-12-13 15:01:10,940 - INFO - Page 32 fetched successfully (200)
+2025-12-13 15:01:11,023 - INFO - Scraping page 33: http://books.toscrape.com/catalogue/page-33.html
+2025-12-13 15:01:11,854 - INFO - Page 33 fetched successfully (200)
+2025-12-13 15:01:11,939 - INFO - Scraping page 34: http://books.toscrape.com/catalogue/page-34.html
+2025-12-13 15:01:12,765 - INFO - Page 34 fetched successfully (200)
+2025-12-13 15:01:12,864 - INFO - Scraping page 35: http://books.toscrape.com/catalogue/page-35.html
+2025-12-13 15:01:13,743 - INFO - Page 35 fetched successfully (200)
+2025-12-13 15:01:13,825 - INFO - Scraping page 36: http://books.toscrape.com/catalogue/page-36.html
+2025-12-13 15:01:14,746 - INFO - Page 36 fetched successfully (200)
+2025-12-13 15:01:14,830 - INFO - Scraping page 37: http://books.toscrape.com/catalogue/page-37.html
+2025-12-13 15:01:15,699 - INFO - Page 37 fetched successfully (200)
+2025-12-13 15:01:15,776 - INFO - Scraping page 38: http://books.toscrape.com/catalogue/page-38.html
+2025-12-13 15:01:16,607 - INFO - Page 38 fetched successfully (200)
+2025-12-13 15:01:16,693 - INFO - Scraping page 39: http://books.toscrape.com/catalogue/page-39.html
+2025-12-13 15:01:17,563 - INFO - Page 39 fetched successfully (200)
+2025-12-13 15:01:17,638 - INFO - Scraping page 40: http://books.toscrape.com/catalogue/page-40.html
+2025-12-13 15:01:18,483 - INFO - Page 40 fetched successfully (200)
+2025-12-13 15:01:19,137 - INFO - Scraping page 41: http://books.toscrape.com/catalogue/page-41.html
+2025-12-13 15:01:20,009 - INFO - Page 41 fetched successfully (200)
+2025-12-13 15:01:20,094 - INFO - Scraping page 42: http://books.toscrape.com/catalogue/page-42.html
+2025-12-13 15:01:20,941 - INFO - Page 42 fetched successfully (200)
+2025-12-13 15:01:21,029 - INFO - Scraping page 43: http://books.toscrape.com/catalogue/page-43.html
+2025-12-13 15:01:21,857 - INFO - Page 43 fetched successfully (200)
+2025-12-13 15:01:21,941 - INFO - Scraping page 44: http://books.toscrape.com/catalogue/page-44.html
+2025-12-13 15:01:22,897 - INFO - Page 44 fetched successfully (200)
+2025-12-13 15:01:22,995 - INFO - Scraping page 45: http://books.toscrape.com/catalogue/page-45.html
+2025-12-13 15:01:23,951 - INFO - Page 45 fetched successfully (200)
+2025-12-13 15:01:24,037 - INFO - Scraping page 46: http://books.toscrape.com/catalogue/page-46.html
+2025-12-13 15:01:24,887 - INFO - Page 46 fetched successfully (200)
+2025-12-13 15:01:24,994 - INFO - Scraping page 47: http://books.toscrape.com/catalogue/page-47.html
+2025-12-13 15:01:25,844 - INFO - Page 47 fetched successfully (200)
+2025-12-13 15:01:25,928 - INFO - Scraping page 48: http://books.toscrape.com/catalogue/page-48.html
+2025-12-13 15:01:26,808 - INFO - Page 48 fetched successfully (200)
+2025-12-13 15:01:26,895 - INFO - Scraping page 49: http://books.toscrape.com/catalogue/page-49.html
+2025-12-13 15:01:27,798 - INFO - Page 49 fetched successfully (200)
+2025-12-13 15:01:27,877 - INFO - Scraping page 50: http://books.toscrape.com/catalogue/page-50.html
+2025-12-13 15:01:28,746 - INFO - Page 50 fetched successfully (200)
+2025-12-13 15:01:28,828 - INFO - No more pages to scrape. Stopping.
+2025-12-13 15:02:56,881 - INFO - Scraping page 1: http://books.toscrape.com/catalogue/page-1.html
+2025-12-13 15:02:57,811 - INFO - Page 1 fetched successfully (200)
+2025-12-13 15:02:57,905 - INFO - Scraping page 2: http://books.toscrape.com/catalogue/page-2.html
+2025-12-13 15:02:58,825 - INFO - Page 2 fetched successfully (200)
+2025-12-13 15:02:58,911 - INFO - Scraping page 3: http://books.toscrape.com/catalogue/page-3.html
+2025-12-13 15:02:59,738 - INFO - Page 3 fetched successfully (200)
+2025-12-13 15:02:59,827 - INFO - Scraping page 4: http://books.toscrape.com/catalogue/page-4.html
+2025-12-13 15:03:00,685 - INFO - Page 4 fetched successfully (200)
+2025-12-13 15:03:00,765 - INFO - Scraping page 5: http://books.toscrape.com/catalogue/page-5.html
+2025-12-13 15:03:01,630 - INFO - Page 5 fetched successfully (200)
+2025-12-13 15:03:01,713 - INFO - Scraping page 6: http://books.toscrape.com/catalogue/page-6.html
+2025-12-13 15:03:02,517 - INFO - Page 6 fetched successfully (200)
+2025-12-13 15:03:02,605 - INFO - Scraping page 7: http://books.toscrape.com/catalogue/page-7.html
+2025-12-13 15:03:03,454 - INFO - Page 7 fetched successfully (200)
+2025-12-13 15:03:03,547 - INFO - Scraping page 8: http://books.toscrape.com/catalogue/page-8.html
+2025-12-13 15:03:04,738 - INFO - Page 8 fetched successfully (200)
+2025-12-13 15:03:04,826 - INFO - Scraping page 9: http://books.toscrape.com/catalogue/page-9.html
+2025-12-13 15:03:05,735 - INFO - Page 9 fetched successfully (200)
+2025-12-13 15:03:05,820 - INFO - Scraping page 10: http://books.toscrape.com/catalogue/page-10.html
+2025-12-13 15:03:06,785 - INFO - Page 10 fetched successfully (200)
+2025-12-13 15:03:06,866 - INFO - Scraping page 11: http://books.toscrape.com/catalogue/page-11.html
+2025-12-13 15:03:07,756 - INFO - Page 11 fetched successfully (200)
+2025-12-13 15:03:07,833 - INFO - Scraping page 12: http://books.toscrape.com/catalogue/page-12.html
+2025-12-13 15:03:08,788 - INFO - Page 12 fetched successfully (200)
+2025-12-13 15:03:08,863 - INFO - Scraping page 13: http://books.toscrape.com/catalogue/page-13.html
+2025-12-13 15:03:09,840 - INFO - Page 13 fetched successfully (200)
+2025-12-13 15:03:09,939 - INFO - Scraping page 14: http://books.toscrape.com/catalogue/page-14.html
+2025-12-13 15:03:10,881 - INFO - Page 14 fetched successfully (200)
+2025-12-13 15:03:10,966 - INFO - Scraping page 15: http://books.toscrape.com/catalogue/page-15.html
+2025-12-13 15:03:11,879 - INFO - Page 15 fetched successfully (200)
+2025-12-13 15:03:11,956 - INFO - Scraping page 16: http://books.toscrape.com/catalogue/page-16.html
+2025-12-13 15:03:12,930 - INFO - Page 16 fetched successfully (200)
+2025-12-13 15:03:13,014 - INFO - Scraping page 17: http://books.toscrape.com/catalogue/page-17.html
+2025-12-13 15:03:13,899 - INFO - Page 17 fetched successfully (200)
+2025-12-13 15:03:13,992 - INFO - Scraping page 18: http://books.toscrape.com/catalogue/page-18.html
+2025-12-13 15:03:14,821 - INFO - Page 18 fetched successfully (200)
+2025-12-13 15:03:14,916 - INFO - Scraping page 19: http://books.toscrape.com/catalogue/page-19.html
+2025-12-13 15:03:15,894 - INFO - Page 19 fetched successfully (200)
+2025-12-13 15:03:15,973 - INFO - Scraping page 20: http://books.toscrape.com/catalogue/page-20.html
+2025-12-13 15:03:16,921 - INFO - Page 20 fetched successfully (200)
+2025-12-13 15:03:17,018 - INFO - Scraping page 21: http://books.toscrape.com/catalogue/page-21.html
+2025-12-13 15:03:17,904 - INFO - Page 21 fetched successfully (200)
+2025-12-13 15:03:17,982 - INFO - Scraping page 22: http://books.toscrape.com/catalogue/page-22.html
+2025-12-13 15:03:18,891 - INFO - Page 22 fetched successfully (200)
+2025-12-13 15:03:18,977 - INFO - Scraping page 23: http://books.toscrape.com/catalogue/page-23.html
+2025-12-13 15:03:19,826 - INFO - Page 23 fetched successfully (200)
+2025-12-13 15:03:19,907 - INFO - Scraping page 24: http://books.toscrape.com/catalogue/page-24.html
+2025-12-13 15:03:20,731 - INFO - Page 24 fetched successfully (200)essfully (200)
+2025-12-13 15:03:26,405 - INFO - Scraping page 31: http://books.toscrape.com/catalogue/page-31.html
+2025-12-13 15:03:27,303 - INFO - Page 31 fetched successfully (200)
+2025-12-13 15:03:27,381 - INFO - Scraping page 32: http://books.toscrape.com/catalogue/page-32.html
+2025-12-13 15:03:28,224 - INFO - Page 32 fetched successfully (200)
+2025-12-13 15:03:28,305 - INFO - Scraping page 33: http://books.toscrape.com/catalogue/page-33.html
+2025-12-13 15:03:29,155 - INFO - Page 33 fetched successfully (200)
+2025-12-13 15:03:29,237 - INFO - Scraping page 34: http://books.toscrape.com/catalogue/page-34.html
+2025-12-13 15:03:30,069 - INFO - Page 34 fetched successfully (200)
+2025-12-13 15:03:30,149 - INFO - Scraping page 35: http://books.toscrape.com/catalogue/page-35.html
+2025-12-13 15:03:31,010 - INFO - Page 35 fetched successfully (200)
+2025-12-13 15:03:31,114 - INFO - Scraping page 36: http://books.toscrape.com/catalogue/page-36.html
+2025-12-13 15:03:31,980 - INFO - Page 36 fetched successfully (200)
+2025-12-13 15:03:32,062 - INFO - Scraping page 37: http://books.toscrape.com/catalogue/page-37.html
+2025-12-13 15:03:32,978 - INFO - Page 37 fetched successfully (200)
+2025-12-13 15:03:33,062 - INFO - Scraping page 38: http://books.toscrape.com/catalogue/page-38.html
+2025-12-13 15:03:33,954 - INFO - Page 38 fetched successfully (200)
+2025-12-13 15:03:34,035 - INFO - Scraping page 39: http://books.toscrape.com/catalogue/page-39.html
+2025-12-13 15:03:34,881 - INFO - Page 39 fetched successfully (200)
+2025-12-13 15:03:34,964 - INFO - Scraping page 40: http://books.toscrape.com/catalogue/page-40.html
+2025-12-13 15:03:35,817 - INFO - Page 40 fetched successfully (200)
+2025-12-13 15:03:35,914 - INFO - Scraping page 41: http://books.toscrape.com/catalogue/page-41.html
+2025-12-13 15:03:36,746 - INFO - Page 41 fetched successfully (200)
+2025-12-13 15:03:36,858 - INFO - Scraping page 42: http://books.toscrape.com/catalogue/page-42.html
+2025-12-13 15:03:37,708 - INFO - Page 42 fetched successfully (200)
+2025-12-13 15:03:37,771 - INFO - Scraping page 43: http://books.toscrape.com/catalogue/page-43.html
+2025-12-13 15:03:38,696 - INFO - Page 43 fetched successfully (200)
+2025-12-13 15:03:38,779 - INFO - Scraping page 44: http://books.toscrape.com/catalogue/page-44.html
+2025-12-13 15:03:39,685 - INFO - Page 44 fetched successfully (200)
+2025-12-13 15:03:39,779 - INFO - Scraping page 45: http://books.toscrape.com/catalogue/page-45.html
+2025-12-13 15:03:40,621 - INFO - Page 45 fetched successfully (200)
+2025-12-13 15:03:40,699 - INFO - Scraping page 46: http://books.toscrape.com/catalogue/page-46.html
+2025-12-13 15:03:41,537 - INFO - Page 46 fetched successfully (200)
+2025-12-13 15:03:41,624 - INFO - Scraping page 47: http://books.toscrape.com/catalogue/page-47.html
+2025-12-13 15:03:42,490 - INFO - Page 47 fetched successfully (200)
+2025-12-13 15:03:42,586 - INFO - Scraping page 48: http://books.toscrape.com/catalogue/page-48.html
+2025-12-13 15:03:43,399 - INFO - Page 48 fetched successfully (200)
+2025-12-13 15:03:43,449 - INFO - Scraping page 49: http://books.toscrape.com/catalogue/page-49.html
+2025-12-13 15:03:44,277 - INFO - Page 49 fetched successfully (200)
+2025-12-13 15:03:44,366 - INFO - Scraping page 50: http://books.toscrape.com/catalogue/page-50.html
+2025-12-13 15:03:45,236 - INFO - Page 50 fetched successfully (200)
+2025-12-13 15:03:45,321 - INFO - No more pages to scrape. Stopping.
+2025-12-13 15:38:20,891 - INFO - Scraping page 1: http://books.toscrape.com/catalogue/page-1.html
+2025-12-13 15:38:20,896 - INFO - Attempt 1 to fetch page 1
+2025-12-13 15:38:21,934 - INFO - Page 1 fetched successfully (200)
+2025-12-13 15:38:22,040 - INFO - Scraping page 2: http://books.toscrape.com/catalogue/page-2.html
+2025-12-13 15:38:22,040 - INFO - Attempt 1 to fetch page 2
+2025-12-13 15:38:22,947 - INFO - Page 2 fetched successfully (200)
+2025-12-13 15:38:23,083 - INFO - Scraping page 3: http://books.toscrape.com/catalogue/page-3.html
+2025-12-13 15:38:23,084 - INFO - Attempt 1 to fetch page 3
+2025-12-13 15:38:23,894 - INFO - Page 3 fetched successfully (200)
+2025-12-13 15:38:23,981 - INFO - Scraping page 4: http://books.toscrape.com/catalogue/page-4.html
+2025-12-13 15:38:23,981 - INFO - Attempt 1 to fetch page 4
+2025-12-13 15:38:24,860 - INFO - Page 4 fetched successfully (200)
+2025-12-13 15:38:24,949 - INFO - Scraping page 5: http://books.toscrape.com/catalogue/page-5.html
+2025-12-13 15:38:24,949 - INFO - Attempt 1 to fetch page 5
+2025-12-13 15:38:25,770 - INFO - Page 5 fetched successfully (200)
+2025-12-13 15:38:25,852 - INFO - Scraping page 6: http://books.toscrape.com/catalogue/page-6.html
+2025-12-13 15:38:25,852 - INFO - Attempt 1 to fetch page 6
+2025-12-13 15:38:26,688 - INFO - Page 6 fetched successfully (200)
+2025-12-13 15:38:26,770 - INFO - Scraping page 7: http://books.toscrape.com/catalogue/page-7.html
+2025-12-13 15:38:26,770 - INFO - Attempt 1 to fetch page 7
+2025-12-13 15:38:27,685 - INFO - Page 7 fetched successfully (200)
+2025-12-13 15:38:27,768 - INFO - Scraping page 8: http://books.toscrape.com/catalogue/page-8.html
+2025-12-13 15:38:27,769 - INFO - Attempt 1 to fetch page 8
+2025-12-13 15:38:28,683 - INFO - Page 8 fetched successfully (200)
+2025-12-13 15:38:28,777 - INFO - Scraping page 9: http://books.toscrape.com/catalogue/page-9.html
+2025-12-13 15:38:28,777 - INFO - Attempt 1 to fetch page 9
+2025-12-13 15:38:29,665 - INFO - Page 9 fetched successfully (200)
+2025-12-13 15:38:29,745 - INFO - Scraping page 10: http://books.toscrape.com/catalogue/page-10.html
+2025-12-13 15:38:29,746 - INFO - Attempt 1 to fetch page 10
+2025-12-13 15:38:30,623 - INFO - Page 10 fetched successfully (200)
+2025-12-13 15:38:30,705 - INFO - Scraping page 11: http://books.toscrape.com/catalogue/page-11.html
+2025-12-13 15:38:30,706 - INFO - Attempt 1 to fetch page 11
+2025-12-13 15:38:31,509 - INFO - Page 11 fetched successfully (200)
+2025-12-13 15:38:31,600 - INFO - Scraping page 12: http://books.toscrape.com/catalogue/page-12.html
+2025-12-13 15:38:31,600 - INFO - Attempt 1 to fetch page 12
+2025-12-13 15:38:32,432 - INFO - Page 12 fetched successfully (200)
+2025-12-13 15:38:32,526 - INFO - Scraping page 13: http://books.toscrape.com/catalogue/page-13.html
+2025-12-13 15:38:32,526 - INFO - Attempt 1 to fetch page 13
+2025-12-13 15:38:33,423 - INFO - Page 13 fetched successfully (200)
+2025-12-13 15:38:33,502 - INFO - Scraping page 14: http://books.toscrape.com/catalogue/page-14.html
+2025-12-13 15:38:33,503 - INFO - Attempt 1 to fetch page 14
+2025-12-13 15:38:34,443 - INFO - Page 14 fetched successfully (200)
+2025-12-13 15:38:34,545 - INFO - Scraping page 15: http://books.toscrape.com/catalogue/page-15.html
+2025-12-13 15:38:34,545 - INFO - Attempt 1 to fetch page 15
+2025-12-13 15:38:35,408 - INFO - Page 15 fetched successfully (200)
+2025-12-13 15:38:35,492 - INFO - Scraping page 16: http://books.toscrape.com/catalogue/page-16.html
+2025-12-13 15:38:35,493 - INFO - Attempt 1 to fetch page 16
+2025-12-13 15:38:36,350 - INFO - Page 16 fetched successfully (200)
+2025-12-13 15:38:36,440 - INFO - Scraping page 17: http://books.toscrape.com/catalogue/page-17.html
+2025-12-13 15:38:36,441 - INFO - Attempt 1 to fetch page 17
+2025-12-13 15:38:37,239 - INFO - Page 17 fetched successfully (200)
+2025-12-13 15:38:37,345 - INFO - Scraping page 18: http://books.toscrape.com/catalogue/page-18.html
+2025-12-13 15:38:37,345 - INFO - Attempt 1 to fetch page 18
+2025-12-13 15:38:38,198 - INFO - Page 18 fetched successfully (200)
+2025-12-13 15:38:38,290 - INFO - Scraping page 19: http://books.toscrape.com/catalogue/page-19.html
+2025-12-13 15:38:38,291 - INFO - Attempt 1 to fetch page 19
+2025-12-13 15:38:39,100 - INFO - Page 19 fetched successfully (200)
+2025-12-13 15:38:39,203 - INFO - Scraping page 20: http://books.toscrape.com/catalogue/page-20.html
+2025-12-13 15:38:39,203 - INFO - Attempt 1 to fetch page 20
+2025-12-13 15:38:40,083 - INFO - Page 20 fetched successfully (200)
+2025-12-13 15:38:40,167 - INFO - Scraping page 21: http://books.toscrape.com/catalogue/page-21.html
+2025-12-13 15:38:40,167 - INFO - Attempt 1 to fetch page 21
+2025-12-13 15:38:40,983 - INFO - Page 21 fetched successfully (200)
+2025-12-13 15:38:41,062 - INFO - Scraping page 22: http://books.toscrape.com/catalogue/page-22.html
+2025-12-13 15:38:41,063 - INFO - Attempt 1 to fetch page 22
+2025-12-13 15:38:41,901 - INFO - Page 22 fetched successfully (200)
+2025-12-13 15:38:41,989 - INFO - Scraping page 23: http://books.toscrape.com/catalogue/page-23.html
+2025-12-13 15:38:41,989 - INFO - Attempt 1 to fetch page 23
+2025-12-13 15:38:42,961 - INFO - Page 23 fetched successfully (200)
+2025-12-13 15:38:43,048 - INFO - Scraping page 24: http://books.toscrape.com/catalogue/page-24.html
+2025-12-13 15:38:43,048 - INFO - Attempt 1 to fetch page 24
+2025-12-13 15:38:43,857 - INFO - Page 24 fetched successfully (200)
+2025-12-13 15:38:43,971 - INFO - Scraping page 25: http://books.toscrape.com/catalogue/page-25.html
+2025-12-13 15:38:43,972 - INFO - Attempt 1 to fetch page 25
+2025-12-13 15:38:44,934 - INFO - Page 25 fetched successfully (200)
+2025-12-13 15:38:45,035 - INFO - Scraping page 26: http://books.toscrape.com/catalogue/page-26.html
+2025-12-13 15:38:45,035 - INFO - Attempt 1 to fetch page 26
+2025-12-13 15:38:45,905 - INFO - Page 26 fetched successfully (200)
+2025-12-13 15:38:45,970 - INFO - Scraping page 27: http://books.toscrape.com/catalogue/page-27.html
+2025-12-13 15:38:45,971 - INFO - Attempt 1 to fetch page 27
+2025-12-13 15:38:46,872 - INFO - Page 27 fetched successfully (200)
+2025-12-13 15:38:46,951 - INFO - Scraping page 28: http://books.toscrape.com/catalogue/page-28.html
+2025-12-13 15:38:46,951 - INFO - Attempt 1 to fetch page 28
+2025-12-13 15:38:47,845 - INFO - Page 28 fetched successfully (200)
+2025-12-13 15:38:47,936 - INFO - Scraping page 29: http://books.toscrape.com/catalogue/page-29.html
+2025-12-13 15:38:47,936 - INFO - Attempt 1 to fetch page 29
+2025-12-13 15:38:48,787 - INFO - Page 29 fetched successfully (200)
+2025-12-13 15:38:48,862 - INFO - Scraping page 30: http://books.toscrape.com/catalogue/page-30.html
+2025-12-13 15:38:48,862 - INFO - Attempt 1 to fetch page 30
+2025-12-13 15:38:49,690 - INFO - Page 30 fetched successfully (200)
+2025-12-13 15:38:49,768 - INFO - Scraping page 31: http://books.toscrape.com/catalogue/page-31.html
+2025-12-13 15:38:49,768 - INFO - Attempt 1 to fetch page 31
+2025-12-13 15:38:50,599 - INFO - Page 31 fetched successfully (200)
+2025-12-13 15:38:50,703 - INFO - Scraping page 32: http://books.toscrape.com/catalogue/page-32.html
+2025-12-13 15:38:50,703 - INFO - Attempt 1 to fetch page 32
+2025-12-13 15:38:51,544 - INFO - Page 32 fetched successfully (200)
+2025-12-13 15:38:51,624 - INFO - Scraping page 33: http://books.toscrape.com/catalogue/page-33.html
+2025-12-13 15:38:51,624 - INFO - Attempt 1 to fetch page 33
+2025-12-13 15:38:52,596 - INFO - Page 33 fetched successfully (200)
+2025-12-13 15:38:52,675 - INFO - Scraping page 34: http://books.toscrape.com/catalogue/page-34.html
+2025-12-13 15:38:52,675 - INFO - Attempt 1 to fetch page 34
+2025-12-13 15:38:53,606 - INFO - Page 34 fetched successfully (200)
+2025-12-13 15:38:53,697 - INFO - Scraping page 35: http://books.toscrape.com/catalogue/page-35.html
+2025-12-13 15:38:53,698 - INFO - Attempt 1 to fetch page 35
+2025-12-13 15:38:54,579 - INFO - Page 35 fetched successfully (200)
+2025-12-13 15:38:54,670 - INFO - Scraping page 36: http://books.toscrape.com/catalogue/page-36.html
+2025-12-13 15:38:54,670 - INFO - Attempt 1 to fetch page 36
+2025-12-13 15:38:55,539 - INFO - Page 36 fetched successfully (200)
+2025-12-13 15:38:55,623 - INFO - Scraping page 37: http://books.toscrape.com/catalogue/page-37.html
+2025-12-13 15:38:55,624 - INFO - Attempt 1 to fetch page 37
+2025-12-13 15:38:56,445 - INFO - Page 37 fetched successfully (200)
+2025-12-13 15:38:57,346 - INFO - Scraping page 38: http://books.toscrape.com/catalogue/page-38.html
+2025-12-13 15:38:57,346 - INFO - Attempt 1 to fetch page 38
+2025-12-13 15:38:58,235 - INFO - Page 38 fetched successfully (200)
+2025-12-13 15:38:58,308 - INFO - Scraping page 39: http://books.toscrape.com/catalogue/page-39.html
+2025-12-13 15:38:58,308 - INFO - Attempt 1 to fetch page 39
+2025-12-13 15:38:59,215 - INFO - Page 39 fetched successfully (200)
+2025-12-13 15:38:59,298 - INFO - Scraping page 40: http://books.toscrape.com/catalogue/page-40.html
+2025-12-13 15:38:59,298 - INFO - Attempt 1 to fetch page 40
+2025-12-13 15:39:00,099 - INFO - Page 40 fetched successfully (200)
+2025-12-13 15:39:00,180 - INFO - Scraping page 41: http://books.toscrape.com/catalogue/page-41.html
+2025-12-13 15:39:00,181 - INFO - Attempt 1 to fetch page 41
+2025-12-13 15:39:01,118 - INFO - Page 41 fetched successfully (200)
+2025-12-13 15:39:01,199 - INFO - Scraping page 42: http://books.toscrape.com/catalogue/page-42.html
+2025-12-13 15:39:01,199 - INFO - Attempt 1 to fetch page 42
+2025-12-13 15:39:02,016 - INFO - Page 42 fetched successfully (200)
+2025-12-13 15:39:02,111 - INFO - Scraping page 43: http://books.toscrape.com/catalogue/page-43.html
+2025-12-13 15:39:02,112 - INFO - Attempt 1 to fetch page 43
+2025-12-13 15:39:03,059 - INFO - Page 43 fetched successfully (200)
+2025-12-13 15:39:03,146 - INFO - Scraping page 44: http://books.toscrape.com/catalogue/page-44.html
+2025-12-13 15:39:03,146 - INFO - Attempt 1 to fetch page 44
+2025-12-13 15:39:04,050 - INFO - Page 44 fetched successfully (200)
+2025-12-13 15:39:04,126 - INFO - Scraping page 45: http://books.toscrape.com/catalogue/page-45.html
+2025-12-13 15:39:04,126 - INFO - Attempt 1 to fetch page 45
+2025-12-13 15:39:04,946 - INFO - Page 45 fetched successfully (200)
+2025-12-13 15:39:05,042 - INFO - Scraping page 46: http://books.toscrape.com/catalogue/page-46.html
+2025-12-13 15:39:05,042 - INFO - Attempt 1 to fetch page 46
+2025-12-13 15:39:05,841 - INFO - Page 46 fetched successfully (200)
+2025-12-13 15:39:05,919 - INFO - Scraping page 47: http://books.toscrape.com/catalogue/page-47.html
+2025-12-13 15:39:05,920 - INFO - Attempt 1 to fetch page 47
+2025-12-13 15:39:06,825 - INFO - Page 47 fetched successfully (200)
+2025-12-13 15:39:06,910 - INFO - Scraping page 48: http://books.toscrape.com/catalogue/page-48.html
+2025-12-13 15:39:06,911 - INFO - Attempt 1 to fetch page 48
+2025-12-13 15:39:07,794 - INFO - Page 48 fetched successfully (200)
+2025-12-13 15:39:07,893 - INFO - Scraping page 49: http://books.toscrape.com/catalogue/page-49.html
+2025-12-13 15:39:07,894 - INFO - Attempt 1 to fetch page 49
+2025-12-13 15:39:08,749 - INFO - Page 49 fetched successfully (200)
+2025-12-13 15:39:08,832 - INFO - Scraping page 50: http://books.toscrape.com/catalogue/page-50.html
+2025-12-13 15:39:08,832 - INFO - Attempt 1 to fetch page 50
+2025-12-13 15:39:09,808 - INFO - Page 50 fetched successfully (200)
+2025-12-13 15:39:09,883 - INFO - No more pages to scrape. Stopping.
+2025-12-13 15:39:09,883 - INFO - ---------- SCRAPING SUMMARY ----------
+2025-12-13 15:39:09,884 - INFO - Total pages attempted: 50
+2025-12-13 15:39:09,884 - INFO - Total pages successfully scraped: 50
+2025-12-13 15:39:09,884 - INFO - Total failures: 0
+2025-12-13 15:40:53,230 - INFO - Scraping page 45: https://books.toscrape.com/catalogue/page-45.html
+2025-12-13 15:40:53,231 - INFO - Attempt 1 to fetch page 45
+2025-12-13 15:40:54,541 - INFO - Page 45 fetched successfully (200)
+2025-12-13 15:40:54,541 - INFO - Processing page 1...
+2025-12-13 15:40:55,627 - INFO - Scraping page 46: https://books.toscrape.com/catalogue/page-46.html
+2025-12-13 15:40:55,628 - INFO - Attempt 1 to fetch page 46
+2025-12-13 15:40:56,922 - INFO - Page 46 fetched successfully (200)
+2025-12-13 15:40:56,922 - INFO - Processing page 2...
+2025-12-13 15:40:58,018 - INFO - Scraping page 47: https://books.toscrape.com/catalogue/page-47.html
+2025-12-13 15:40:58,018 - INFO - Attempt 1 to fetch page 47
+2025-12-13 15:40:59,181 - INFO - Page 47 fetched successfully (200)
+2025-12-13 15:40:59,181 - INFO - Processing page 3...
+2025-12-13 15:41:00,261 - INFO - Scraping page 48: https://books.toscrape.com/catalogue/page-48.html
+2025-12-13 15:41:00,261 - INFO - Attempt 1 to fetch page 48
+2025-12-13 15:41:01,451 - INFO - Page 48 fetched successfully (200)
+2025-12-13 15:41:01,451 - INFO - Processing page 4...
+2025-12-13 15:41:02,558 - INFO - Scraping page 49: https://books.toscrape.com/catalogue/page-49.html
+2025-12-13 15:41:02,559 - INFO - Attempt 1 to fetch page 49
+2025-12-13 15:41:03,894 - INFO - Page 49 fetched successfully (200)
+2025-12-13 15:41:03,894 - INFO - Processing page 5...
+2025-12-13 15:41:04,975 - INFO - Scraping page 50: https://books.toscrape.com/catalogue/page-50.html
+2025-12-13 15:41:04,976 - INFO - Attempt 1 to fetch page 50
+2025-12-13 15:41:06,238 - INFO - Page 50 fetched successfully (200)
+2025-12-13 15:41:06,238 - INFO - Processing page 6...
+2025-12-13 15:41:07,320 - INFO - No more pages to scrape. Stopping.
+2025-12-13 15:41:07,321 - INFO - Scraper run completed.
+2025-12-13 15:44:24,673 - INFO - Scraping page 51: https://books.toscrape.com/catalogue/page-51.html
+2025-12-13 15:44:24,674 - INFO - Attempt 1 to fetch page 51
+2025-12-13 15:44:25,605 - ERROR - Request failed on attempt 1: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/page-51.html
+2025-12-13 15:44:25,606 - INFO - Retrying after 2 seconds...
+2025-12-13 15:44:27,606 - INFO - Attempt 2 to fetch page 51
+2025-12-13 15:44:28,585 - ERROR - Request failed on attempt 2: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/page-51.html
+2025-12-13 15:44:28,586 - INFO - Retrying after 2 seconds...
+2025-12-13 15:44:30,586 - INFO - Attempt 3 to fetch page 51
+2025-12-13 15:44:31,486 - ERROR - Request failed on attempt 3: 404 Client Error: Not Found for url: https://books.toscrape.com/catalogue/page-51.html
+2025-12-13 15:44:31,487 - ERROR - Failed to fetch page 51 after 3 attempts
+2025-12-13 15:44:31,487 - INFO - Processing page 1...
+2025-12-13 15:44:32,489 - ERROR - Error parsing page 51: cannot access local variable 'html' where it is not associated with a value
+2025-12-13 15:44:32,490 - INFO - Scraper run completed.

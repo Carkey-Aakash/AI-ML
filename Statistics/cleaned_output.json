@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Amazing Product",
+        "price": 1299.0,
+        "rating": 4.5
+    },
+    {
+        "title": "Cheap Good Item",
+        "price": 499.0,
+        "rating": 3.0
+    },
+    {
+        "title": "Luxury Item",
+        "price": 2000.0,
+        "rating": 5.0
+    },
+    {
+        "title": "Invalid",
+        "price": 0.0,
+        "rating": 0.0
+    }
+]
