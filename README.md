@@ -71,10 +71,12 @@ This repository contains Python coding exercises and implementations for learnin
 ---
 
 ### Day 7 - Theory and Coding Tasks as below
-- understand what webscraping is and tools used for it like BeautifulSoup,requests
+- Understand what webscraping is and tools used for it like   BeautifulSoup,requests
 - Http Requests and its types and status codes
 - HTML Structures and Basic Html tag
 - Pagination Logic and it's types
--css Selectors vs Xpath
+-Css Selectors vs Xpath
 -Error Handling 
 
+### Day 8 - Generators and Lazy data Loading
+- Theory and coding tasks related to Generators and Lazy data loading
