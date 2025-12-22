@@ -80,3 +80,9 @@ This repository contains Python coding exercises and implementations for learnin
 
 ### Day 8 - Generators and Lazy data Loading
 - Theory and coding tasks related to Generators and Lazy data loading
+
+### Day 9 - File Format and ETL
+- Learn about File formats (CSV and JSON)
+- ETL (Extract -> Transform -> Load)
+- coding tasks how i learn to perform ETL without libraries just python.
+- Learn to save data in csv and json format.
