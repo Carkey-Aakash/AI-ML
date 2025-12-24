@@ -86,3 +86,9 @@ This repository contains Python coding exercises and implementations for learnin
 - ETL (Extract -> Transform -> Load)
 - coding tasks how i learn to perform ETL without libraries just python.
 - Learn to save data in csv and json format.
+
+### Day 10- coding and thoery related tasks of
+- Logging ,Why logging, Common logs
+- Automation basics
+- Error proof scraping 
+- coding related to these tasks
