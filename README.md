@@ -92,3 +92,8 @@ This repository contains Python coding exercises and implementations for learnin
 - Automation basics
 - Error proof scraping 
 - coding related to these tasks
+
+### Day 11- Data Cleaning Essentials
+- Handling Missing values using Different Ways(mean,median,mode ,..............)
+- Outlier Detection and its different ways for it
+- Coding related to these topics
