@@ -97,3 +97,10 @@ This repository contains Python coding exercises and implementations for learnin
 - Handling Missing values using Different Ways(mean,median,mode ,..............)
 - Outlier Detection and its different ways for it
 - Coding related to these topics
+
+### Day 12 - Descriptive statistics and distribution types
+- Measures of Central Tendency(Mean,Median,Mode)
+- Measure of Dispersion(Range, Variance, Standard Deviation)
+- Measure of Shape ( Skewness, Kurtosis)
+
+- For distribution (Normal distribution,uniform Distribution)
