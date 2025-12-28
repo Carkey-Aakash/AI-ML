@@ -104,3 +104,4 @@ This repository contains Python coding exercises and implementations for learnin
 - Measure of Shape ( Skewness, Kurtosis)
 
 - For distribution (Normal distribution,uniform Distribution)
+- Coding related to these topics
