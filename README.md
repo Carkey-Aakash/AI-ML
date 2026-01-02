@@ -106,8 +106,11 @@ This repository contains Python coding exercises and implementations for learnin
 - For distribution (Normal distribution,uniform Distribution)
 - Coding related to these topics
 
-### Day 13- Visualization
+### Day 13- Visualization day 1
 - Histogram
 - Boxplot
 - Density plot
+
+
+### Day 14- Visualization day 2
 - Deep understanding and coding related to these topics
