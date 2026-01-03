@@ -114,3 +114,10 @@ This repository contains Python coding exercises and implementations for learnin
 
 ### Day 14- Visualization day 2
 - Deep understanding and coding related to these topics
+
+### Day 15 - Correlation and Covariance
+- About correlation it's types 
+- About Covariance and its type 
+- Difference  between Correlation and Covariance 
+- Coding related to these topics
+- Visualization and analysis 
