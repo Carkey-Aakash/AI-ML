@@ -121,3 +121,9 @@ This repository contains Python coding exercises and implementations for learnin
 - Difference  between Correlation and Covariance 
 - Coding related to these topics
 - Visualization and analysis 
+
+### Day 16 - Feature Scaling
+- About feature scaling and its needs.
+- ways of feature scaling
+- Normalization and standardization
+- Theory and coding related to these topics
