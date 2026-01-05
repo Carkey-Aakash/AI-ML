@@ -127,3 +127,9 @@ This repository contains Python coding exercises and implementations for learnin
 - ways of feature scaling
 - Normalization and standardization
 - Theory and coding related to these topics
+
+### Day 17 - Linear Regression
+- Simple and muntiple Linear Regression
+- Theory about LinearRegression
+- Coding and Implementation of Linear Regression
+- Visualization and Analysis
