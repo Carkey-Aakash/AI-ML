@@ -78,6 +78,8 @@ This repository contains Python coding exercises and implementations for learnin
 -Css Selectors vs Xpath
 -Error Handling 
 
+---
+
 ### Day 8 - Generators and Lazy data Loading
 - Theory and coding tasks related to Generators and Lazy data loading
 
