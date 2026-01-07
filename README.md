@@ -130,8 +130,8 @@ This repository contains Python coding exercises and implementations for learnin
 - Normalization and standardization
 - Theory and coding related to these topics
 
-### Day 17 - Linear Regression
+### Day 17 and 18  - Linear Regression
 - Simple and muntiple Linear Regression
-- Theory about LinearRegression
+- Theory and maths behind LinearRegression
 - Coding and Implementation of Linear Regression
-- Visualization and Analysis
+- Visualization and Analysis of Linear Regression
