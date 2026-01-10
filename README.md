@@ -135,3 +135,5 @@ This repository contains Python coding exercises and implementations for learnin
 - Theory and maths behind LinearRegression
 - Coding and Implementation of Linear Regression
 - Visualization and Analysis of Linear Regression
+
+### Day 19 - Cost Functions
