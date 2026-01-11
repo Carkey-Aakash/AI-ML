@@ -137,3 +137,8 @@ This repository contains Python coding exercises and implementations for learnin
 - Visualization and Analysis of Linear Regression
 
 ### Day 19 - Cost Functions
+- Cost functions,Learning Rate, Gradient Descent and its needs
+- Common cost Functions(MSE,MAE,Log Loss)
+- Coding and Implementation of Cost Functions
+- Visualization and analysis of it
+
