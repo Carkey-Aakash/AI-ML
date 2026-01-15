@@ -107,7 +107,7 @@ This repository contains Python coding exercises and implementations for learnin
 
 - Logging ,Why logging, Common logs
 - Automation basics
-- Error proof scraping 
+- Error proof scraping
 - coding related to these tasks
 
 ### Day 11- Data Cleaning Essentials
@@ -166,5 +166,9 @@ This repository contains Python coding exercises and implementations for learnin
 
 ### Day 20,21 - Logistic Regression
 
-
-
+- About Logistic Regression theory
+- Sigmoid Function, Threhold
+- Binary Entropy (log-loss)
+- Compute gradients
+- update weight and bais
+- coding,visualization, Analysis related to Logistic Regression
