@@ -172,3 +172,10 @@ This repository contains Python coding exercises and implementations for learnin
 - Compute gradients
 - update weight and bais
 - coding,visualization, Analysis related to Logistic Regression
+
+### Day 22,23 - K Nearest Neighbours
+
+- About K-Nearest Neighbours
+- Distances metrics (Euclidean distance, Manhattan Distance)
+- Evaluations metrics(Accuracy_score)
+- coding, visualiazation, and analysis related to K-Nearest Neighbours
