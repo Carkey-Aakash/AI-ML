@@ -179,3 +179,10 @@ This repository contains Python coding exercises and implementations for learnin
 - Distances metrics (Euclidean distance, Manhattan Distance)
 - Evaluations metrics(Accuracy_score)
 - coding, visualiazation, and analysis related to K-Nearest Neighbours
+
+### Day 24,25 - Decision Trees
+
+- About Decision Trees
+- Entropy , gini and Information gain
+- spliton criteria, min_samples , pruning, max_depth..........
+- coding related to decision tree
