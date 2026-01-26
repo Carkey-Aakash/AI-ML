@@ -186,3 +186,12 @@ This repository contains Python coding exercises and implementations for learnin
 - Entropy , gini and Information gain
 - spliton criteria, min_samples , pruning, max_depth..........
 - coding related to decision tree
+
+### Day 26,27,28 - KMeans + PCA
+
+- About K-means and pca
+- curse of dimensionality
+- centroids 
+- Eigenvalues and Eigenvectors
+- Principal components
+- geometric+mathematical intitution of PCA
